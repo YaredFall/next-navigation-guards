@@ -12,7 +12,8 @@
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "next": "15.1.4",
-        "@yaredfall/next-navigation-guards": "workspace:*"
+        "@yaredfall/next-navigation-guards": "workspace:*",
+        "@yaredfall/next-navigation-interception": "^0.0.6"
     },
     "devDependencies": {
         "typescript": "^5",
