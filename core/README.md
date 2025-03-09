@@ -1,8 +1,8 @@
 # next-navigation-interception
 
-> For Next.js with App Router
-
 Navigation guards for Next.js app.
+
+> For Next.js 13+ with App Router
 
 ## Install
 
